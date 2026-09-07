@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**rochaandreasr/rochaandreasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou André Rocha, desenvolvedor full-stack.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🔭 Atualmente trabalho como Técnico de Suporte em TI e estou cursando ADS com previsão de conclusão em 2028 
+- 🌱 Aprendendo: [GitHub Actions, DevOps]
+- 👯 Interessado em colaborar em: [open-source projects]
+- 📫 Contato: [rochaandreasr@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: Python, JavaScript, TypeScript
+- Frameworks: React, Node.js, Next.js
+- Tools: Git
+
+## GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+
+## Links
+- LinkedIn: [www.linkedin.com/in/andre-rocha-7497b6160]

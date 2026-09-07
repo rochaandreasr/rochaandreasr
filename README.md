@@ -14,7 +14,7 @@ Sou André Rocha, desenvolvedor full-stack.
 - Tools: Git
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=rochaandreasr&show_icons=true&theme=radical)
 
 
 ## Links
